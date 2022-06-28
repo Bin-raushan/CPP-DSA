@@ -13,7 +13,7 @@
 
       time complexity=o(logn)
  */
-//kkkk
+
 
 #include<iostream>
 using namespace std;

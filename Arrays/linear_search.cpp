@@ -12,7 +12,7 @@
    time complexity=o(n)
 
 */
-//jjjj
+
 
 #include<iostream>
 using namespace std;

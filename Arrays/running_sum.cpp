@@ -11,7 +11,7 @@
      int ans[n];
      cout<<"Enter the element of array\n";
      for(int i=0;i<n;i++){
-         cin>>arr[i]; // hdjfgjuhy
+         cin>>arr[i]; 
      }
      ans[0]=arr[0];
      cout<<ans[0]<<" ";
